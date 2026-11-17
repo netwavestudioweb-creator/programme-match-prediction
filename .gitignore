@@ -1,0 +1,12 @@
+# Données téléchargées automatiquement par le script
+data/
+# Pages HTML scrapées (anciennes, non nécessaires)
+*.html
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jeux de données Kaggle volumineux (licence externe, non requis)
+S2324-laliga-players.csv
+data_kaggle_prepared.csv

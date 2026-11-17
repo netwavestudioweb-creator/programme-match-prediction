@@ -1,0 +1,9 @@
+# Programme Match — prédicteur de statistiques (predicteur_stats.py)
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+
+# Anciens scripts (legacy, approche scraping/API) :
+requests>=2.28
+beautifulsoup4>=4.11
+openpyxl>=3.1
